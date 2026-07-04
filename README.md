@@ -44,14 +44,6 @@ Files 03 and 04 use a restaurant listings dataset (`data/Jomato.csv`) containing
 **User-Defined Function Demo:**
 ![UDF Demo](screenshots/jomato_out_05_udf_demo.png)
 
-**Salesman-Customer-Orders JOIN:**
-![Order Analysis](screenshots/output_01_salesman_orders_join.png)
-
-**Department-wise Salary Summary:**
-![Salary Summary](screenshots/output_02_department_salary_summary.png)
-
-**Employee-Department JOIN:**
-![Employee Department](screenshots/output_03_employee_department_join.png)
 
 ## How to Run
 1. Set up SQL Server (or MySQL, with minor syntax adjustments)
